@@ -1,14 +1,14 @@
-#Vinted BackEnd Assignment
+# Vinted BackEnd Assignment
 
-Here, at Vinted, our members call themselves 'Vinties' and shopping at Vinted even has its own term - 'to vint'. And our member does vint a lot. Naturally, when something is purchased, it has to be shipped and Vinted provides various shipping options to its members across the globe. However, let's focus on France. In France, it is allowed to ship via either 'Mondial Relay' (MR in short) or 'La Poste' (LP). While 'La Poste' provides usual courier delivery services, 'Mondial Relay' allows you to drop and pick up a shipment at a so-called drop-off point, thus being less convenient, but cheaper for larger packages.
+Here, at Vinted, our members call themselves 'Vinties' and shopping at Vinted even has its term - 'to vint'. And our members do vint a lot. Naturally, when something is purchased, it has to be shipped and Vinted provides various shipping options to its members across the globe. However, let's focus on France. In France, it is allowed to ship via either 'Mondial Relay' (MR in short) or 'La Poste' (LP). While 'La Poste' provides usual courier delivery services, 'Mondial Relay' allows you to drop and pick up a shipment at a so-called drop-off point, thus being less convenient, but cheaper for larger packages.
 
 Each item, depending on its size gets an appropriate package size assigned to it:
 
 * S - Small, a popular option to ship jewelry
 * M - Medium - clothes and similar items
 * L - Large - mostly shoes
-Shipping price depends on package size and a provider:
-Shipping price depends on package size and a provider:
+Shipping price depends on package size and provider:
+Shipping price depends on package size and provider:
 
 | Provider | Package Size | Price  |
 | -------- | ------------ | ------ |
@@ -19,7 +19,7 @@ Shipping price depends on package size and a provider:
 | MR	     | M 	          | 3 €    |
 | MR	     | L	          | 4 €    |
 
-Usually, the shipping price is covered by the buyer, but sometimes, in order to promote one or another provider, Vinted covers part of the shipping price.
+Usually, the shipping price is covered by the buyer, but sometimes, to promote one or another provider, Vinted covers part of the shipping price.
 
 Your task is to create a shipment discount calculation module.
 
@@ -30,7 +30,7 @@ The third L shipment via LP should be free, but only once a calendar month.
 Accumulated discounts cannot exceed 10 € in a calendar month. If there are not enough funds to fully cover a discount this calendar month, it should be covered partially.
 Your design should be flexible enough to allow adding new rules and modifying existing ones easily.
 
-Member's transactions are listed in a file 'input.txt', each line containing: date (without hours, in ISO format), package size code, and carrier code, separated with whitespace:
+Member's transactions are listed in a file 'input.txt', each line containing: the date (without hours, in ISO format), package size code, and carrier code, separated with whitespace:
 
 ```
 2015-02-01 S MR
@@ -56,7 +56,7 @@ Member's transactions are listed in a file 'input.txt', each line containing: da
 2015-03-01 S MR
 ```
 
-Your program should output transactions and append reduced shipment price and a shipment discount (or '-' if there is none). The program should append 'Ignored' word if the line format is wrong or carrier/sizes are unrecognized.
+Your program should output transactions and append a reduced shipment price and a shipment discount (or '-' if there is none). The program should append an 'Ignored' word if the line format is wrong or carrier/sizes are unrecognized.
 
 ```
 2015-02-01 S MR 1.50 0.50
