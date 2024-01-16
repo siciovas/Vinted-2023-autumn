@@ -1,0 +1,28 @@
+C:\Users\User\Desktop\Backend Assignment\BackendAssignment\BackendAssignment\bin\Debug\net7.0\BackendAssignment.exe
+C:\Users\User\Desktop\Backend Assignment\BackendAssignment\BackendAssignment\bin\Debug\net7.0\BackendAssignment.deps.json
+C:\Users\User\Desktop\Backend Assignment\BackendAssignment\BackendAssignment\bin\Debug\net7.0\BackendAssignment.runtimeconfig.json
+C:\Users\User\Desktop\Backend Assignment\BackendAssignment\BackendAssignment\bin\Debug\net7.0\BackendAssignment.dll
+C:\Users\User\Desktop\Backend Assignment\BackendAssignment\BackendAssignment\bin\Debug\net7.0\BackendAssignment.pdb
+C:\Users\User\Desktop\Backend Assignment\BackendAssignment\BackendAssignment\obj\Debug\net7.0\BackendAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Backend Assignment\BackendAssignment\BackendAssignment\obj\Debug\net7.0\BackendAssignment.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Backend Assignment\BackendAssignment\BackendAssignment\obj\Debug\net7.0\BackendAssignment.AssemblyInfo.cs
+C:\Users\User\Desktop\Backend Assignment\BackendAssignment\BackendAssignment\obj\Debug\net7.0\BackendAssignment.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Backend Assignment\BackendAssignment\BackendAssignment\obj\Debug\net7.0\BackendAssignment.dll
+C:\Users\User\Desktop\Backend Assignment\BackendAssignment\BackendAssignment\obj\Debug\net7.0\refint\BackendAssignment.dll
+C:\Users\User\Desktop\Backend Assignment\BackendAssignment\BackendAssignment\obj\Debug\net7.0\BackendAssignment.pdb
+C:\Users\User\Desktop\Backend Assignment\BackendAssignment\BackendAssignment\obj\Debug\net7.0\BackendAssignment.genruntimeconfig.cache
+C:\Users\User\Desktop\Backend Assignment\BackendAssignment\BackendAssignment\obj\Debug\net7.0\ref\BackendAssignment.dll
+C:\Users\User\Desktop\BackendAssignment\BackendAssignment\bin\Debug\net7.0\BackendAssignment.exe
+C:\Users\User\Desktop\BackendAssignment\BackendAssignment\bin\Debug\net7.0\BackendAssignment.deps.json
+C:\Users\User\Desktop\BackendAssignment\BackendAssignment\bin\Debug\net7.0\BackendAssignment.runtimeconfig.json
+C:\Users\User\Desktop\BackendAssignment\BackendAssignment\bin\Debug\net7.0\BackendAssignment.dll
+C:\Users\User\Desktop\BackendAssignment\BackendAssignment\bin\Debug\net7.0\BackendAssignment.pdb
+C:\Users\User\Desktop\BackendAssignment\BackendAssignment\obj\Debug\net7.0\BackendAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BackendAssignment\BackendAssignment\obj\Debug\net7.0\BackendAssignment.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BackendAssignment\BackendAssignment\obj\Debug\net7.0\BackendAssignment.AssemblyInfo.cs
+C:\Users\User\Desktop\BackendAssignment\BackendAssignment\obj\Debug\net7.0\BackendAssignment.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BackendAssignment\BackendAssignment\obj\Debug\net7.0\BackendAssignment.dll
+C:\Users\User\Desktop\BackendAssignment\BackendAssignment\obj\Debug\net7.0\refint\BackendAssignment.dll
+C:\Users\User\Desktop\BackendAssignment\BackendAssignment\obj\Debug\net7.0\BackendAssignment.pdb
+C:\Users\User\Desktop\BackendAssignment\BackendAssignment\obj\Debug\net7.0\BackendAssignment.genruntimeconfig.cache
+C:\Users\User\Desktop\BackendAssignment\BackendAssignment\obj\Debug\net7.0\ref\BackendAssignment.dll
